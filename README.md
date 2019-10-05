@@ -1,6 +1,10 @@
+Fork from https://github.com/yonchu/accelerated-smooth-scroll
+Added support for PageUp and PageDown buttons 
+
+### Original readme:
+
 Vim plugin for accelerated smooth scroll (mapping to `<C-D>/<C-U>`, `<C-F>/<C-B>`)
 --------------------------------------------------------------------------------------
- (fork)
 
 You can scroll your vim with smooth animation through the use of this plugin.
 Moreover, the scroll speed will be accelerated, if you consecutively scroll.
