@@ -1,6 +1,6 @@
 Vim plugin for accelerated smooth scroll (mapping to `<C-D>/<C-U>`, `<C-F>/<C-B>`)
 --------------------------------------------------------------------------------------
-(fork)
+ (fork)
 
 You can scroll your vim with smooth animation through the use of this plugin.
 Moreover, the scroll speed will be accelerated, if you consecutively scroll.
